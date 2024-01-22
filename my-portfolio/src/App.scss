@@ -1,0 +1,13 @@
+$primary-color: #2B2B2B;
+
+@import 'animate.css';
+
+@font-face {
+  font-family:  'Inter Light';
+  src: url(./assets/fonts/Inter-Light.ttf) format('ttf');
+}
+
+input,
+textarea{
+  font-family: 'Inter Light', sans-serif;
+}
